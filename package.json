@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@fastify/cors": "^11.1.0",
+    "@google/generative-ai": "^0.24.1",
+    "cors": "^2.8.5",
+    "fastify": "^5.4.0",
+    "fastify-cli": "^7.4.0",
+    "fastify-multer": "^2.0.3",
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.2.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
