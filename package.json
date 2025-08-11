@@ -1,12 +1,24 @@
 {
+  "name": "pdf-parser-gemini",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/jack-214/pdf-parser-gemini-backend#readme",
+  "bugs": {
+    "url": "https://github.com/jack-214/pdf-parser-gemini-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack-214/pdf-parser-gemini-backend.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
-    "@fastify/cors": "^11.1.0",
-    "@google/generative-ai": "^0.24.1",
-    "cors": "^2.8.5",
-    "fastify": "^5.4.0",
-    "fastify-cli": "^7.4.0",
-    "fastify-multer": "^2.0.3",
-    "pdf-parse": "^1.1.1"
+    "cors": "^2.8.5"
   },
   "devDependencies": {
     "@types/node": "^24.2.0",
